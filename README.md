@@ -4,4 +4,4 @@ Ben Howe
 
 COSC 2030
 
-November 26/2018
+November 26, 2018
